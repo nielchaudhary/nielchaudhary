@@ -3,13 +3,10 @@
 
 <img align="right" width=“400” src=“https://raw.githubusercontent.com/nielchaudhary/nielchaudhary/main/bayc.gif”>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nielchaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="nielchaudhary" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nielchaudhary" alt="nielchaudhary" /></a> </p>
 
 - 🔭 I’m currently working on **a stealth fintech application.**
 
-- 🌱 I’m currently learning **Golang,WebRTC and advance backend concepts.**
+- 🌱 I’m currently learning **Golang, advance backend concepts, blockchain & web3.**
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/nielchaudhary](https://www.github.com/nielchaudhary)
 
@@ -17,7 +14,7 @@
 
 - 📫 How to reach me **neilchaudhary12@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1g7k8vIdPfwHoU7xRnQnhHRJhb-MDnds3/view?usp=drive_link](https://drive.google.com/file/d/1g7k8vIdPfwHoU7xRnQnhHRJhb-MDnds3/view?usp=drive_link)
+- 📄 Know about my experiences [https://shorturl.at/klHSV](https://shorturl.at/klHSV)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
