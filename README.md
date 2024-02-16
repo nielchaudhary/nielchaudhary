@@ -13,7 +13,7 @@
 
 🚀 All of my projects are available at <a href="https://www.github.com/nielchaudhary" target="_blank">Github</a>
 
-🚀 contact me : <a href="mailto:neilchaudhary12@gmail.com">Gmail</a>
+🚀 <a href="mailto:neilchaudhary12@gmail.com">contact me</a>
 
 🚀 <a href="https://drive.google.com/file/d/1g7k8vIdPfwHoU7xRnQnhHRJhb-MDnds3/view" target="_blank">Summing up entire career</a>
 
