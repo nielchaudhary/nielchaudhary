@@ -1,17 +1,16 @@
 
-<h2 align="center">A passionate software developer and a web3 explorer from India 🇮🇳</h2>
+<h2 style="font-family: Arial, sans-serif; letter-spacing: 2px;">🥷🏻 passionate software developer and a web3 explorer from 🇮🇳</h2>
 
 
-- 🚀 WIP : **a stealth fintech application.**
 
-- 🚀 I’m currently learning **Advance backend concepts, blockchain & web3.**
+🚀 WIP : **a stealth fintech application.**
 
-- 🚀 All of my projects are available at [https://www.github.com/nielchaudhary](https://www.github.com/nielchaudhary)
+🚀 I’m currently diving deep into **Advance backend concepts, blockchain & web3.**
 
-- 🚀 Ask me about **Javascript, Node.js & Typescript**
+🚀 All of my projects are available at [https://www.github.com/nielchaudhary](https://www.github.com/nielchaudhary)
 
-- 🚀 How to reach me **neilchaudhary12@gmail.com**
+🚀 Reach me @ **neilchaudhary12@gmail.com**
 
-- 🚀 Know about my experiences [https://shorturl.at/klHSV](https://shorturl.at/klHSV)
+🚀 Summing up entire career [https://shorturl.at/klHSV](https://shorturl.at/klHSV)
 
 
