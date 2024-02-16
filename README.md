@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Neel Chaudhary</h1>
 <h3 align="center">A passionate software developer and a web3 explorer from Mumbai, India</h3>
 
-<div align=“center”><img width=“400” src=“https://raw.githubusercontent.com/nielchaudhary/nielchaudhary/main/bayc.gif”></div>
+<img align="right" width=“400” src=“https://raw.githubusercontent.com/nielchaudhary/nielchaudhary/main/bayc.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nielchaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="nielchaudhary" /> </p>
 
