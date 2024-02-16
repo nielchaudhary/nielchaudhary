@@ -1,7 +1,7 @@
 
-<h2 style="font-family: Arial, sans-serif; letter-spacing: 2px;">🥷🏻 passionate software developer and a web3 explorer from 🇮🇳</h2>
 
 
+🥷🏻 <b>software developer and a web3 evangelist.</b>
 
 🚀 WIP : **a stealth fintech application.**
 
