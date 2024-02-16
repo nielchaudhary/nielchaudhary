@@ -11,6 +11,7 @@
 🚀 All of my projects are available at [Github](https://www.github.com/nielchaudhary)
 
 <b>🚀 Tech Stack</b><br/>
+______________________ <br/>
 🌐   Typescript | React | NodeJS | tRPC | gRPC | Prisma <br/>
 
 🛢   Postgresql | MongoDB | Redis  <br/>
