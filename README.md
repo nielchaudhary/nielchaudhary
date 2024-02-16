@@ -1,4 +1,4 @@
-<img align="center" alt="GIF" src="https://github.com/nielchaudhary/nielchaudhary/blob/main/bayc.gif?raw=true" width="300" height="300" />
+<img align="right" alt="GIF" src="https://github.com/nielchaudhary/nielchaudhary/blob/main/bayc.gif?raw=true" width="200" height="200" />
 
 🥷🏻 **software developer and a web3 evangelist.**
 
