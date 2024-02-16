@@ -4,8 +4,6 @@
 
 🚀 workEx : backend intern @ LineupX : **A growth stage startup.**
 
-🚀 WIP : **a stealth fintech application.**
-
 🚀 I’m currently diving deep into **Advance backend concepts, blockchain & web3.**
 
 🚀 All of my projects are available at [Github](https://www.github.com/nielchaudhary)
