@@ -13,10 +13,8 @@
 
 🚀 All of my projects are available at <a href="https://www.github.com/nielchaudhary" target="_blank">Github</a>
 
-🚀 <a href="mailto:neilchaudhary12@gmail.com">contact me</a>
-
-🚀 <a href="https://drive.google.com/file/d/1g7k8vIdPfwHoU7xRnQnhHRJhb-MDnds3/view" target="_blank">Summing up entire career</a>
-
+🚀 **Links** : <a href="https://drive.google.com/file/d/1g7k8vIdPfwHoU7xRnQnhHRJhb-MDnds3/view" target="_blank">workEx and Education</a> <a href="mailto:neilchaudhary12@gmail.com">Contact me</a> <a href="https://www.linkedin.com/in/neel-chaudhary-b047ab196/" target="_blank">LinkedIn</a> 
+<a href="https://twitter.com/nielchaudhary09" target="_blank">Twitter</a>
 
 
 
