@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/Arbazkhan4712/Arbazkhan4712/blob/main/bayc.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/nielchaudhary/nielchaudhary/blob/main/eldritch-blast-zombozo.gif?raw=true" width="350" height="350" />
 
 🥷🏻 software developer and a web3 evangelist.
 
