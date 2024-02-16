@@ -10,8 +10,8 @@
 
 🚀 All of my projects are available at [Github](https://www.github.com/nielchaudhary)
 
-<b>🛠 Tech Stack </b><br/>
-🌐   TypeScript | ReactJS | Node.js | Express | tRPC | gRPC | Prisma <br/>
+<b>🚀 Tech Stack</b><br/>
+🌐   Typescript | React | NodeJS | tRPC | gRPC | Prisma <br/>
 
 🛢   Postgresql | MongoDB | Redis  <br/>
 
