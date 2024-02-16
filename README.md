@@ -1,14 +1,13 @@
 <h1 align="center">Hola! , I'm Neel Chaudhary</h1>
 <h3 align="center">A passionate software developer from Mumbai, India</h3>
 
-<img align=“right” alt = “bayc” width=“400” src="![Uploading image.png…]()
-">
+<img align=“right” alt = “bayc” width=“400” src=“https://imgs.search.brave.com/mTLvfqlWK_TxJwAPmOV4Bmp6MLhn-toW0X_huZ_QQsk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/Um1CTG9Mc040MEVB/QUFBZC9ib3JlZC1h/cGUuZ2lm.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nielchaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="nielchaudhary" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nielchaudhary" alt="nielchaudhary" /></a> </p>
 
-- 🔭 I’m currently working on **a personal stealth fintech application.**
+- 🔭 I’m currently working on **a stealth fintech application.**
 
 - 🌱 I’m currently learning **Golang,WebRTC and advance backend concepts.**
 
