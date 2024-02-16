@@ -3,6 +3,9 @@
 
 🥷🏻 <b>software developer and a web3 evangelist.</b>
 
+
+🚀 workEx : worked as a backend intern @ LineupX : A growth stage startup.
+
 🚀 WIP : **a stealth fintech application.**
 
 🚀 I’m currently diving deep into **Advance backend concepts, blockchain & web3.**
