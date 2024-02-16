@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **a stealth fintech application.**
 
-- 🌱 I’m currently learning **Golang, advance backend concepts, blockchain & web3.**
+- 🌱 I’m currently learning **Advance backend concepts, blockchain & web3.**
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/nielchaudhary](https://www.github.com/nielchaudhary)
 
