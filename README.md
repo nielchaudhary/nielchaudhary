@@ -1,5 +1,5 @@
-<h1 align="center">Hi , I'm Neel Chaudhary</h1>
-<h3 align="center">A passionate software developer and a web3 explorer from India</h3>
+<h1 align="center">Hola, I'm Neel Chaudhary</h1>
+<h3 align="center">A passionate software developer and a web3 explorer from India 🇮🇳</h3>
 
 <img align="right" width=“400” src=“https://raw.githubusercontent.com/nielchaudhary/nielchaudhary/main/bayc.gif”>
 
