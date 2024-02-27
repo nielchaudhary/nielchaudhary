@@ -4,7 +4,7 @@
 
 🚀 workEx : backend intern @ LineupX : **A growth stage startup.**
 
-🚀 I’m currently diving deep into **Advance backend concepts, blockchain & web3.**
+🚀 I’m currently diving deep into **crypto, blockchain & web3.**
 
 🚀 All of my projects are available at [Github](https://www.github.com/nielchaudhary)
 
