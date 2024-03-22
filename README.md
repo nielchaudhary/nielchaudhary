@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/nielchaudhary/nielchaudhary/blob/main/nftgif.gif?raw=true" width="350" height="350" />
+<img align="right" alt="GIF" src="https://github.com/nielchaudhary/nielchaudhary/blob/main/wagmi.gif?raw=true" width="350" height="350" />
 
 🥷🏻 software developer and a web3 evangelist.
 
