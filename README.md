@@ -4,6 +4,7 @@
 🥷🏻 software developer and a web3 enthusiast.
 
 - I’m currently diving deep into **backend dev & web3.**
+- **tech : typescript, core java, Golang and React.**
 
 - All of my projects are available at [Github](https://www.github.com/nielchaudhary)
 
