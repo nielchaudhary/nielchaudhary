@@ -1,2 +1,3 @@
-[proof of work](https://portfolio-latest-git-main-layer-1.vercel.app)
-
+- I design & develop web and mobile apps that are scalable.
+- Building [Runtime Labs](https://runtimelabs.space). Have an idea in mind? Let’s design and build it together.
+- [proof of work](https://portfolio-latest-git-main-layer-1.vercel.app)
