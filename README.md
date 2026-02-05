@@ -1,3 +1,2 @@
-- I design & develop web and mobile apps that are scalable.
-- Building [Runtime Labs](https://runtimelabs.space). Have an idea in mind? [Book a call here](https://cal.com/nielchaudhary/idea-discussion-with-neel)
-- [proof of work](https://portfolio-latest-git-main-layer-1.vercel.app)
+
+→ building [Sidekick](https://sidekick.runtimelabs.space), your intelligent sidekick that thinks with you
